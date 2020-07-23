@@ -49,9 +49,13 @@ public:
 		return !(*this < f2) && (*this != f2);
 	}
 	friend bool operator< (const cFraccion& f1, cFraccion& f2);
+	friend cFraccion* operator* (const cFraccion& f1, const cFraccion& f2);
+
 };
 bool operator < (const cFraccion& f1, cFraccion& f2);
-	
+cFraccion* operator* (const cFraccion& f1 ,cFraccion& f2);
+
+
 
 	
 

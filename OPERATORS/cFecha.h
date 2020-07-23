@@ -60,10 +60,10 @@ public:
    {
 	return !(*this< fecha2);
    }
-	int getdia() {return dia;};
+	int getdia() {return dia;};//para el iostream 
 	int getmes() {return mes;};
 	int getanio() {return anio;};
-	void setdia(int Dia);
+	void setdia(int Dia); //para el istream
 	void setmes(int Mes);
 	void setanio(int Anio);
 };
