@@ -1,0 +1,8 @@
+﻿  cFabricaCalzado.cpp
+C:\Users\abru2\source\repos\calzado ej parcial\calzado ej parcial\cFabricaCalzado.cpp(25,3): warning C4552: "+": el resultado de la expresión no se usa
+C:\Users\abru2\source\repos\calzado ej parcial\calzado ej parcial\cFabricaCalzado.cpp(33,4): warning C4552: "+": el resultado de la expresión no se usa
+C:\Users\abru2\source\repos\calzado ej parcial\calzado ej parcial\cFabricaCalzado.cpp(41,7): warning C4552: "+": el resultado de la expresión no se usa
+  calzado ej parcial.cpp
+  Generando código...
+C:\Users\abru2\source\repos\calzado ej parcial\calzado ej parcial\cFabricaCalzado.cpp(46): warning C4715: 'cFabricaCalzado::Fabricar': no todas las rutas de acceso de control devuelven un valor
+  calzado ej parcial.vcxproj -> C:\Users\abru2\source\repos\calzado ej parcial\Debug\calzado ej parcial.exe
